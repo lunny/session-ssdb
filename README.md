@@ -1,4 +1,4 @@
-session-ssdb [![Build Status](https://drone.io/github.com/tango-contrib/session-ssdb/status.png)](https://drone.io/github.com/tango-contrib/session-ssdb/latest) [![](http://gocover.io/_badge/github.com/tango-contrib/session-redis)](http://gocover.io/github.com/tango-contrib/session-ssdb)
+session-ssdb [![Build Status](https://drone.io/github.com/tango-contrib/session-ssdb/status.png)](https://drone.io/github.com/tango-contrib/session-ssdb/latest) [![](http://gocover.io/_badge/github.com/tango-contrib/session-ssdb)](http://gocover.io/github.com/tango-contrib/session-ssdb)
 ======
 
 Session-ssdb is a store of [session](https://github.com/tango-contrib/session) middleware for [Tango](https://github.com/lunny/tango) stored session data via [ssdb](http://ssdb.io).
