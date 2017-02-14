@@ -3,6 +3,10 @@ session-ssdb [![Build Status](https://drone.io/github.com/tango-contrib/session-
 
 Session-ssdb is a store of [session](https://github.com/tango-contrib/session) middleware for [Tango](https://github.com/lunny/tango) stored session data via [ssdb](http://ssdb.io).
 
+## Known issue
+
+See [https://github.com/tango-contrib/session-ssdb/issues/1](https://github.com/tango-contrib/session-ssdb/issues/1)
+
 ## Installation
 
     go get github.com/tango-contrib/session-ssdb
